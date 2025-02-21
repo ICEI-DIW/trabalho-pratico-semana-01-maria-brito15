@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Maria Eduarda de Paula Brito
+Matricula: 885935
 
 ## Tela de inspeção com navegador
 
+<img src="arquivos_desenvolvedor.PNG">
 
 ## Tela de projeto no Replit
+
+
 
